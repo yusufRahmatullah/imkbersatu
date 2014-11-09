@@ -10,12 +10,13 @@
 
 #header{
 	display:block;
-	height: 100px;
+	height: 70px;
 	left: 0px;
 	position: absolute;
 	top: 0px;
 	width: 100%;
 	text-align: right;
+	background-color: rgb(91,155,213);
 }
 #inner-frame{
 	display:block;
